@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment1.params=choice
+comment1.target=void\ setPlayerLetter(char)
+comment2.params=
+comment2.target=char\ getPlayerLetter()
+comment3.params=
+comment3.target=int\ getUserPick()
+comment4.params=board
+comment4.target=void\ playerTurn(GameBoard)
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Computer()
+comment1.params=choice
+comment1.target=void\ setComputerLetter(char)
+comment2.params=
+comment2.target=char\ getComputerLetter()
+comment3.params=board\ phil\ turnCounter
+comment3.target=void\ computerTurn(GameBoard,\ Player,\ int)
+numComments=4

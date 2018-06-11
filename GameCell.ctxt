@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=cellLocation
+comment0.target=GameCell(int)
+comment1.params=
+comment1.target=void\ drawCell()
+comment2.params=
+comment2.target=void\ empty()
+comment3.params=cellContent
+comment3.target=boolean\ equals(char)
+comment4.params=
+comment4.target=char\ getData()
+comment5.params=playerLetter
+comment5.target=void\ setData(char)
+comment6.params=
+comment6.target=int\ getLocation()
+numComments=7
